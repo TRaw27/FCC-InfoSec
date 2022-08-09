@@ -1,10 +1,7 @@
 const express = require('express');
 const app = express();
 
-"dependencies": {
-		"express": "^4.14.0",
-		"helmet": "3.21.3",
-	},
+helmet = required;
 
 
 
